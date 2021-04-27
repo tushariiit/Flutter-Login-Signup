@@ -16,7 +16,7 @@ class MyApp extends StatelessWidget {
       title: 'Flutter Application ',
       theme: ThemeData(
 
-        primarySwatch: Colors.lightBlue,
+        primarySwatch: Colors.blue,
 
         visualDensity: VisualDensity.adaptivePlatformDensity,
       ),
